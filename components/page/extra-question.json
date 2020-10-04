@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_extra_questions",
+  "info": {
+    "name": "extraQuestion",
+    "icon": "plus"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

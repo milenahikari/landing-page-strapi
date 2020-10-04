@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_section_extra_questions",
+  "info": {
+    "name": "sectionExtraQuestion",
+    "icon": "microphone-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
